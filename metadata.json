@@ -1,0 +1,9 @@
+{
+  "name": "Student Performance Analyzer",
+  "description": "Comprehensive student performance analysis platform for tracking marks, calculating grades, ranking students, generating academic reports, and inspecting subject statistics.",
+  "prompt": "Rewrite the Python student performance analyzer into a modern React application preserving all grading rules, statistics, and analysis logic.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}

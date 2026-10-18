@@ -1,3 +1,0 @@
-# Only the web API (api.py) needs a package. The terminal app (main.py),
-# student.py, file_handler.py, analysis.py and the tests use the standard library only.
-Flask>=3.0
